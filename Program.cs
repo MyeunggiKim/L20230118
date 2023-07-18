@@ -16,10 +16,10 @@ namespace L20230718_1
             states[0] = new State();
             states[0].id = 1;
             states[0].stateName = "배회";
-            states[1]= new State();
+            states[1] = new State();
             states[1].id = 2;
             states[1].stateName = "추격";
-            states[2]= new State();
+            states[2] = new State();
             states[2].id = 3;
             states[2].stateName = "공격";
             states[3] = new State();
@@ -47,18 +47,18 @@ namespace L20230718_1
             transitions[4].condition = "HP없음";
             transitions[4].nextState = 4;
 
-            int MonsterCurrentState = 3;
-            string MonsterCondition = "사정거리 이탈";
+            int MonsterCurretState = 3;
+            string MonsterCondition = "사정거리이탈";
             int MonsterNextState = 0;
 
-            MonsterNextState = transitions[0].Transit(transitions, MonsterCurrentState, MonsterCondition);
+            MonsterNextState = transitions[0].Transit(transitions, MonsterCurretState, MonsterCondition);
 
-            for( int i = 0; i < states.Length; i++)
+            for (int i = 0; i < states.Length; ++i)
             {
                 if (states[i].id == MonsterNextState)
                 {
                     Console.WriteLine(states[i].stateName);
-                } 
+                }
             }
         }
     }
