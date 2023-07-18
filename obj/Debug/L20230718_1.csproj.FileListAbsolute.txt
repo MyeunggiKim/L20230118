@@ -1,0 +1,16 @@
+C:\Work\L20230718_1\bin\Debug\L20230718_1.exe.config
+C:\Work\L20230718_1\bin\Debug\L20230718_1.exe
+C:\Work\L20230718_1\bin\Debug\L20230718_1.pdb
+C:\Work\L20230718_1\obj\Debug\L20230718_1.csproj.AssemblyReference.cache
+C:\Work\L20230718_1\obj\Debug\L20230718_1.csproj.SuggestedBindingRedirects.cache
+C:\Work\L20230718_1\obj\Debug\L20230718_1.csproj.CoreCompileInputs.cache
+C:\Work\L20230718_1\obj\Debug\L20230718_1.exe
+C:\Work\L20230718_1\obj\Debug\L20230718_1.pdb
+C:\Work\L20230718\L20230718_1\obj\Debug\L20230718_1.csproj.AssemblyReference.cache
+C:\Work\L20230718\L20230718_1\obj\Debug\L20230718_1.csproj.SuggestedBindingRedirects.cache
+C:\Work\L20230718\L20230718_1\obj\Debug\L20230718_1.csproj.CoreCompileInputs.cache
+C:\Work\L20230718\L20230718_1\obj\Debug\L20230718_1.exe
+C:\Work\L20230718\L20230718_1\obj\Debug\L20230718_1.pdb
+C:\Work\L20230718\L20230718_1\bin\Debug\L20230718_1.exe.config
+C:\Work\L20230718\L20230718_1\bin\Debug\L20230718_1.exe
+C:\Work\L20230718\L20230718_1\bin\Debug\L20230718_1.pdb
