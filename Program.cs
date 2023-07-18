@@ -47,18 +47,18 @@ namespace L20230718_1
             transitions[4].condition = "HP없음";
             transitions[4].nextState = 4;
 
-            int MonsterCurretState = 3;
+            int MonsterCurrentState = 3;
             string MonsterCondition = "사정거리이탈";
             int MonsterNextState = 0;
 
-            MonsterNextState = transitions[0].Transit(transitions, MonsterCurretState, MonsterCondition);
+            MonsterNextState = transitions[0].Transit(transitions, MonsterCurrentState, MonsterCondition);
 
             for (int i = 0; i < states.Length; ++i)
             {
                 if (states[i].id == MonsterNextState)
                 {
                     Console.WriteLine(states[i].stateName);
-                }
+                } 
             }
         }
     }
